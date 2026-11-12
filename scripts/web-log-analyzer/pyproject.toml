@@ -1,0 +1,17 @@
+[project]
+name = "web-log-analyzer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Alexander Averin", email = "a.averin@rosintel.com" }
+]
+requires-python = ">=3.12"
+dependencies = []
+
+[project.scripts]
+web-log-analyzer = "web_log_analyzer:main"
+
+[build-system]
+requires = ["uv_build>=0.13.1,<0.14.0"]
+build-backend = "uv_build"
