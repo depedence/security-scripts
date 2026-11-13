@@ -1,0 +1,32 @@
+[
+  {
+    "time": "10:01:12",
+    "result": "failed",
+    "user": "root",
+    "ip": "203.0.113.5"
+  },
+  {
+    "time": "10:01:15",
+    "result": "failed",
+    "user": "root",
+    "ip": "203.0.113.5"
+  },
+  {
+    "time": "10:03:40",
+    "result": "accepted",
+    "user": "alex",
+    "ip": "198.51.100.7"
+  },
+  {
+    "time": "10:04:40",
+    "result": "failed",
+    "user": "guest",
+    "ip": "192.0.2.44"
+  },
+  {
+    "time": "10:05:00",
+    "result": "failed",
+    "user": "oracle",
+    "ip": "203.0.113.99"
+  }
+]
